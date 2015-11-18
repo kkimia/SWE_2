@@ -1,0 +1,12 @@
+{
+  "port" : 8080,
+  "deposits" : [ {
+                  "customer" : "Ali Alavi",
+                  "id" : "33227781",
+                  "initialBalance" : "1000",
+                  "upperBound" : "1000000"
+                }
+
+  ],
+  "outLog" : "server.out"
+}
